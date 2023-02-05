@@ -1,0 +1,17 @@
+.item-selected {
+  max-width: fit-content;
+  align-self: center;
+  background: #eab676;
+  color: white;
+  padding: 0.5rem;
+  border: none;
+  border-radius: 0.3rem;
+}
+
+.check-out {
+  background: #eab676;
+  color: white;
+  padding: 0.5rem;
+  border: none;
+  border-radius: 0.3rem;
+}

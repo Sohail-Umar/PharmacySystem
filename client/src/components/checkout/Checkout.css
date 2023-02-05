@@ -1,0 +1,12 @@
+.pkg-deliver {
+  border-radius: 0.5rem;
+}
+
+.place-order-btn {
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  max-width: fit-content;
+  background: #eab676;
+  color: white;
+}

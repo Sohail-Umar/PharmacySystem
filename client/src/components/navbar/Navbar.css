@@ -1,0 +1,49 @@
+.pharmacy-bg {
+  background: #eab676;
+  height: 5rem;
+}
+
+.pharmacy {
+  /* padding: 1rem; */
+  padding: 0.5rem;
+  color: white;
+  font-weight: bold;
+  /* margin-left: 1.5rem; */
+}
+
+.nav-class-1 {
+  background: #4a3728;
+}
+
+.nav-class-2 {
+  width: 100%;
+  margin: auto;
+  padding: 1rem;
+}
+
+.nav-class-3 {
+  display: flex !important;
+  justify-content: space-around !important;
+  width: 100%;
+}
+
+.nav-class-4 {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  /* padding: 1rem !important; */
+}
+
+.nav-class-4 :hover {
+  transform: scale(1.2);
+  transition: all 0.5s;
+}
+
+h1 h2 h3 h4 h5 h6 {
+  line-height: 0.9;
+  font-family: Roboto, sans-serif !important;
+}
+
+/* .nav-adjust {
+  background: #000;
+} */

@@ -1,0 +1,109 @@
+ul {
+  list-style: none;
+}
+
+.footer-upper-main {
+  background: #eab676;
+}
+
+.footer-upper {
+  display: flex;
+  width: 80%;
+  margin: auto;
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.footer-upper-first {
+}
+
+.footer-upper-first ul {
+  display: inline-grid;
+  text-decoration: none;
+  padding: 0;
+  margin-left: 0;
+  margin-top: 0;
+}
+
+.footer-upper-first ul li {
+  margin-top: 0.4rem;
+}
+
+.play-store-img {
+  width: 100%;
+  height: auto;
+}
+
+.apple-store-img {
+  width: 100%;
+  height: auto;
+}
+
+.footer-above-main {
+  display: flex;
+  justify-content: flex-end;
+  background: #4a3728;
+  padding: 1.5rem;
+  flex-wrap: wrap;
+  /* padding: 1rem; */
+}
+
+.fa {
+  padding: 1rem;
+  font-size: 1.5rem;
+  /* width: 30px; */
+  text-align: center;
+  text-decoration: none;
+  margin: 20px 4px;
+  border-radius: 50%;
+}
+
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+  padding: 1rem;
+}
+
+.fa-facebook:hover {
+  background: white;
+  color: black;
+  transform: scale(1);
+  transition: all 0.8s;
+}
+
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+
+.fa-twitter:hover {
+  background: white;
+  color: black;
+  transform: scale(1.2);
+  transition: all 0.8s;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-linkedin:hover {
+  background: white;
+  color: black;
+  transform: scale(1.2);
+  transition: all 0.8s;
+}
+
+.fa-skype {
+  background: #00aff0;
+  color: white;
+}
+
+.fa-skype:hover {
+  background: white;
+  color: black;
+  transform: scale(1.2);
+  transition: all 0.8s;
+}

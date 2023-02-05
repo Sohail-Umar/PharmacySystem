@@ -1,0 +1,132 @@
+.aboutus-imgs {
+  height: auto;
+  border-radius: 1rem;
+  width: 30rem;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  box-shadow: 10px 10px 13px #ccc;
+}
+
+.aboutus-imgs:hover {
+  transform: scale(1.2);
+  transition: all 0.8s;
+}
+
+.aboutus-first-section {
+  margin-top: 3rem !important;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: justify;
+}
+
+.first-section-data {
+  width: 40%;
+  margin: auto;
+}
+
+.aboutus-second-section {
+  margin-top: 5rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.second-section-data {
+  text-align: justify;
+  width: 45%;
+}
+
+.aboutus-third-section {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.third-section-left {
+  width: 80%;
+  margin: auto;
+  margin-top: 3rem !important;
+  margin-bottom: 3rem !important;
+}
+
+.third-section-right {
+  color: white;
+  width: 80%;
+  margin: auto;
+  margin-top: 7rem;
+}
+
+.third-section-right p {
+  text-align: justify;
+}
+
+/* .for-space {
+    margin-top: 3rem;
+  }
+  
+  .about-flex-right img {
+    margin-top: 3rem;
+    width: 31rem;
+    margin-left: 2rem;
+    border-radius: 1rem;
+    box-shadow: 10px 10px 13px #ccc;
+  }
+  
+  .about-flex p {
+    text-align: justify;
+    line-height: 1.8rem;
+  }
+  
+  .about-flex h1,
+  h4,
+  p {
+    margin-left: 2rem;
+    padding-right: 2rem;
+    font-weight: 300;
+  }
+  
+  .pink-left {
+    background: #eab676;
+    height: 35rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 80px;
+    margin-top: 3rem;
+    color: white;
+  }
+  
+  .pink-left h1 {
+    margin-top: 1.8rem;
+    margin-left: 1.75rem;
+    text-align: justify;
+    font-weight: 300;
+  }
+  
+  .pink-left p {
+    margin-left: 1.75rem;
+    text-align: justify;
+  }
+  
+  .pink-right {
+    background-color: #4a3728;
+    color: white;
+    height: 35rem;
+    margin-top: 3rem;
+  }
+  
+  .pink-right p {
+    padding-top: 0px;
+    padding-left: 1rem;
+    padding-right: 3rem;
+    text-align: justify;
+    line-height: 1.8rem;
+  }
+  
+  .pink-right h1 {
+    padding-top: 7rem;
+    text-align: center;
+    font-weight: 300;
+  } */

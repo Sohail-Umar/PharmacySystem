@@ -1,0 +1,27 @@
+h1 h2 h3 h4 h5 h6 {
+  line-height: 0.9;
+  font-family: Roboto, sans-serif !important;
+}
+
+.slider-img {
+  height: 30rem;
+  object-fit: cover;
+  /* display: flex; */
+}
+
+.our-partner {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.slider2-img {
+  object-fit: cover;
+  padding: 3rem;
+  /* width: 80%; */
+  /* margin: auto; */
+}
+
+.slider2-img img {
+  height: 10rem;
+  object-fit: contain;
+}

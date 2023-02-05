@@ -1,0 +1,96 @@
+.contact-heading {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.head-office-main {
+  width: 50%;
+  display: flex;
+  margin: auto;
+  flex-direction: column;
+  /* justify-content: center; */
+  /* background: #000; */
+}
+
+.head-office {
+  margin-top: 2rem;
+}
+
+.contact-detail {
+  font-size: larger;
+  font-weight: 350;
+}
+
+.contact-input {
+  margin-top: 3rem;
+}
+
+.contact-name-email {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+}
+
+.contact-name {
+  padding: 0.75rem;
+  width: 48.5%;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+}
+
+.contact-email {
+  padding: 0.75rem;
+  width: 48.5%;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+}
+
+.contact-phone {
+  margin-bottom: 1.5rem;
+}
+
+.contact-phone input {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+}
+
+.contact-msg {
+  margin-bottom: 0.75rem;
+}
+
+textarea {
+  width: 100%;
+  /* background: #000; */
+  padding: 1rem;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+}
+
+.contact-send-btn {
+  margin-bottom: 4rem;
+}
+
+.contact-send-btn button {
+  width: 11%;
+  padding: 0.75rem;
+  border-radius: 3px;
+  border: none;
+  background-color: #eab676;
+  border-radius: 3px;
+}
+
+.view-map {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.view-map button {
+  padding: 0.75rem;
+  border-radius: 3px;
+  border: none;
+  background-color: #eab676;
+  border-radius: 3px;
+}
